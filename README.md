@@ -1,6 +1,6 @@
-Api de E-mail
+/*Api de E-mail
 
-Essa API tem como objetvio o envio de e-mail.
+Essa API tem como objetvio o envio de e-mail pelo Outlook.
 
 Necessário adicionar no POM.XML:
 <dependency>
@@ -19,4 +19,4 @@ Nome: O nome enviado na corpo da mensagem.
 email: O e-mail do destinatário.
 
 Mensagem que está sendo enviada:
-"Olá Nome. Você acaba de ser convidado pelo ListaVIP."
+"Olá Nome. Você acaba de ser convidado pelo ListaVIP."*/
