@@ -18,7 +18,7 @@ version: 0.0.1-SNAPSHOT
 
 Necessário Import:
 
-import br.com.enviadorEmail.EmailService;
+import br.com.enviadorEmail.service.EmailService;
 
 
 E utilizar a chamada conforme abaixo:
